@@ -1,11 +1,11 @@
 
-# Time-stamp: "2000-05-13 19:34:05 MDT"
+# Time-stamp: "2004-12-29 20:04:51 AST"
 require 5;
 package Class::BlackHole;
 use strict;
 use vars qw(@ISA $Debug $VERSION);
 
-$VERSION = "0.03";
+$VERSION = "0.04";
 @ISA = ();
 $Debug = 0 unless defined $Debug;
 
