@@ -1,11 +1,11 @@
-#!/bin/false
-# Time-stamp: "1999-05-12 12:00:54 MDT"
-package Class::BlackHole;
+
+# Time-stamp: "2000-05-13 19:34:05 MDT"
 require 5;
+package Class::BlackHole;
 use strict;
 use vars qw(@ISA $Debug $VERSION);
 
-$VERSION = "0.02";
+$VERSION = "0.03";
 @ISA = ();
 $Debug = 0 unless defined $Debug;
 
@@ -84,13 +84,13 @@ But let me know if it gives you any problems, OK?
 
 =head1 COPYRIGHT
 
-Copyright 1999, Sean M. Burke C<sburke@netadventure.net>, all rights
+Copyright 1999, 2000, Sean M. Burke C<sburke@cpan.org>, all rights
 reserved.  This program is free software; you can redistribute it
 and/or modify it under the same terms as Perl itself.
 
 =head1 AUTHOR
 
-Sean M. Burke C<sburke@netadventure.net>
+Sean M. Burke C<sburke@cpan.org>
 
 =cut
 

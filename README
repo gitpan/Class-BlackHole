@@ -1,5 +1,5 @@
 README for Class::BlackHole
-                                        Time-stamp: "1999-05-13 10:56:02 MDT"
+                                        Time-stamp: "2000-05-13 19:35:25 MDT"
 
 NAME
      Class::BlackHole - base class to treat unhandled method
@@ -72,13 +72,13 @@ DISCLAIMER
      But let me know if it gives you any problems, OK?
 
 COPYRIGHT
-     Copyright 1999, Sean M. Burke sburke@netadventure.net, all
+     Copyright 1999, 2000, Sean M. Burke sburke@cpan.org, all
      rights reserved.  This program is free software; you can
      redistribute it and/or modify it under the same terms as
      Perl itself.
 
 AUTHOR
-     Sean M. Burke sburke@netadventure.net
+     Sean M. Burke sburke@cpan.org
 
 
 PREREQUISITES
@@ -121,7 +121,7 @@ MacPerl site_lib or lib directory, and move BlackHole.pm into there.
 SUPPORT
 
 Questions, bug reports, useful code bits, and suggestions for
-Class::BlackHole should just be sent to me at sburke@netadventure.net
+Class::BlackHole should just be sent to me at sburke@cpan.org
 
 
 AVAILABILITY
